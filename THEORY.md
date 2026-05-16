@@ -117,3 +117,24 @@ TRANSCEND  →  Task becomes tile — no human needed
 At each threshold, the people using the previous level CANNOT IMAGINE the next level. Not because they lack imagination — because the capability that emerges at the next precision is a DIFFERENT KIND OF THING. It's not better navigation. Navigation isn't the right word anymore.
 
 Full expansion: PRECISION-EMERGENCE.md
+
+## Part 9: Desire-Driven Abstraction (The True Causality)
+
+The precision emergence ladder tells you WHAT happens as resolution increases. It doesn't tell you WHY the resolution increases in the first place.
+
+**The answer: hunger.**
+
+Hunger → fish → fish better → connect sounder to catch → graph to tune reading → connect waveform to chart → save bathymetry (self-supervised loop) → enough curtains → 3D picture → enough boats → 4D animation → better resolution → species differentiation → second frequency → material types → and so on.
+
+At no point did someone say "I need centimeter GPS to enable autonomous driving." A fisherman was hungry. Drew connections. Built loops. The precision accumulated as a SIDE EFFECT of desire-driven connection.
+
+The correct causality:
+```
+DESIRE → CONNECTION → LOOP → ACCUMULATION → EMERGENCE → NEXT DESIRE
+```
+
+NOT: precision → capability → abstraction
+
+The servo-mind doesn't need better precision. It needs to be HUNGRY. The FeedbackProcessor should be driven by "I want to be less wrong," not a parameter schedule.
+
+Full expansion: DESIRE-DRIVEN-ABSTRACTION.md
